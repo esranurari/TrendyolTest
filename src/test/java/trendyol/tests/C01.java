@@ -13,6 +13,7 @@ import trendyol.utilities.Driver;
 import trendyol.utilities.ReusableMethods;
 
 public class C01 {
+    public String hasan;
     //hasann
     //hasannnn
     //githup
