@@ -19,6 +19,7 @@ public class C01 {
     //21.30
     //asjkldfaksdf
     //esra
+    //esra bunu ekledi selamlar
     // 1. https://www.trendyol.com/ adresine gidin
     // 2. Ana sayfanın açıldığını kontrol edin.
     // 3. Yanlış bilgilerle siteye giriş yapılmaya çalışılıyor.
