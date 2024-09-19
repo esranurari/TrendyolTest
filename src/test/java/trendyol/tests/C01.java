@@ -16,6 +16,9 @@ public class C01 {
     //hasann
     //hasannnn
     //githup
+    //21.30
+    //asjkldfaksdf
+    //esra
     // 1. https://www.trendyol.com/ adresine gidin
     // 2. Ana sayfanın açıldığını kontrol edin.
     // 3. Yanlış bilgilerle siteye giriş yapılmaya çalışılıyor.
