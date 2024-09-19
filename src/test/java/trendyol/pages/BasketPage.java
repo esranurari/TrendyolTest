@@ -64,4 +64,29 @@ public class BasketPage {
     public WebElement emptyBasket;
 
 
+
+
+
+
+
+
+
+
+
+    //esra 76-200 arası
+
+
+
+
+
+
+    //Naciye 210-250 arası
+
+
+
+
+    //Nesibe 260-400 arası
+
+
+
 }
