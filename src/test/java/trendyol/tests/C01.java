@@ -13,6 +13,7 @@ import trendyol.utilities.Driver;
 import trendyol.utilities.ReusableMethods;
 
 public class C01 {
+    //hasann
     // 1. https://www.trendyol.com/ adresine gidin
     // 2. Ana sayfanın açıldığını kontrol edin.
     // 3. Yanlış bilgilerle siteye giriş yapılmaya çalışılıyor.
