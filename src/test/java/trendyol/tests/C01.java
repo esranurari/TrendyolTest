@@ -13,11 +13,7 @@ import trendyol.utilities.Driver;
 import trendyol.utilities.ReusableMethods;
 
 public class C01 {
-    public String hasan;
 
-    public String ali;
-
-    public String hataliHasan;
 
     // 1. https://www.trendyol.com/ adresine gidin
     // 2. Ana sayfanın açıldığını kontrol edin.
