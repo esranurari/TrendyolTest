@@ -15,6 +15,19 @@ import trendyol.utilities.ReusableMethods;
 public class C01 {
 
 
+    public String hasan;
+
+    public String hata;
+
+    //aşırı yaratıcı bir ekleme yaptım bravo
+    //esra bunu ekledi selamlar
+
+    public String ali;
+
+    public String hataliHasan;
+
+
+
     // 1. https://www.trendyol.com/ adresine gidin
     // 2. Ana sayfanın açıldığını kontrol edin.
     // 3. Yanlış bilgilerle siteye giriş yapılmaya çalışılıyor.
@@ -95,6 +108,13 @@ public class C01 {
 
 
 
+        /*
+
+
+
+        WebElement signInButton = driver.findElement(By.xpath("//div[@class='link account-user']"));
+        signInButton.click();
+         */
         /*
 
 
