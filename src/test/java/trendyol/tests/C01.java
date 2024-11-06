@@ -105,6 +105,13 @@ public class C01 {
         WebElement signInButton = driver.findElement(By.xpath("//div[@class='link account-user']"));
         signInButton.click();
          */
+        /*
+
+
+
+        WebElement signInButton = driver.findElement(By.xpath("//div[@class='link account-user']"));
+        signInButton.click();
+         */
 
     }
 }
